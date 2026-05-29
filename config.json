@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterctringify",
+        "uuid": 1197194,
+        "checksum": "xkn24n"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
